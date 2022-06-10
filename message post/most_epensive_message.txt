@@ -1,0 +1,66 @@
+a place where a user can post a message then the user and others can raise the value of the message
+by visiting / liking the message or / and paying through bitcoin or paypal
+
+so basically there is traffic value and paid value for the post
+
+traffic value means value from comments, total views and total likes.
+
+the value price for traffic breaks down like this:
+
+$1 for each comment
+$1 for reply 
+$1 comment likes
+$1 reply likes
+$1 for 1000 views
+$1 for each post likes
+
+Sign in with google
+Sign in With Facebook
+register
+
+Profile page:
+Total Value passed
+username
+Posts
+
+
+Frontpage:
+show notice on frontpage footer: THIS WEBSITE DOESN't PAY, It only confirms value of the post.
+top messages  this week, this month, this year.
+show value of the message, show raise value for the message, show likes
+if there are comments then comments count. show post a comment.
+show author of the message (highest payer)
+
+Message page:
+show message
+show message value, show raise value of this message, 
+show message views(can be turned off in admin)
+show message likes(can be turned off in admin)
+comment, comment reply. comment / reply value, comment / reply raise value
+comment like, comment reply count(if there is), comment reply like, comment reply likes count
+if a message is found already posted and the user posted it as comment or reply then show the total message value on the comment or reply.
+
+payment support: paypal, bitcoin
+
+admin:
+analytics:
+top messages, top comments, top replies, top users, total value
+fake accounts, fake messages, fake comments, fake replies, fake value
+
+max char for messages
+
+settings for traffic value:
+turn off / on traffic value (still count but keep it off) (if its on then count it towards the total value)
+value for likes, comments, views, replies
+
+SEO SETTINGS. sitemap xml, title, description, tags
+
+create fake accounts, create fake messages, create fake comments, create fake replies, create fake value
+
+Paypal API, Bitcoin API
+
+support - contact by email
+
+
+
+Maybe I forgot something? will add later through the process.

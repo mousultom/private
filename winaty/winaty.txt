@@ -1,0 +1,72 @@
+winaty.com
+
+A place where post owners pay $1 or more per comment to commentators, tips on comments allowed, tips on money pool allowed
+
+
+Get paid $1.0 or more per comment on users posts that have money pools.
+
+minimum payout to commentators is once they reach $50 worth of comments
+
+winaty keeps 25% of profit, post owners pay 25% extra fee on the money pool
+
+minimum money pool for a post is $10
+
+Registered users have profile page profile picture and bio with a chat / contact button
+Registered users can submit a post or a comment
+Registered users can chat with each other
+posts and comments need to be approved first (no sexual or material against kids allowed)
+users upload money to the post money pool (money pool means total amount of $ to be spent on comments)
+users decide how much they pay per comment, (minimum amount is $1)
+open post funding option is where you dont pay at all (0$ money pool), you open a post where it asks from others to submit money to the money pool.
+there is a flexible pay mode (the post owner decides for each comment how much he is going to pay for each comment differently) to advertise it better for the post owner, there will be a display how much max he is willing to pay for the best comments
+flexible mode will be displayed on the post and commentators will be informed that its custom payment for each comment by the post owner.
+there is an option for private mode, only post owner can see comments ($10 extra fee)
+        not needed function all posts need tips on  - users can set if others can tip pool money on thier posts for other members to support it. (by default on)
+users can set image for the post
+users can set which comments are allowed with instruction to the comentators, (min characters count), link only, text only, file only, video only,gif only, picture only or any of those combinations.
+max upload is 20mb for both post and user comments, if not enough for users they can put link instead.
+tipping more money on a comment is allowed (anyone can tip), tip amount will be displayed on the comment or post
+how much the comment is worth will be noted as well on display as well as how much the post is worth
+
+commentators
+commentators get paid $1 or more to upload a comment on a post
+low quality comments will be flagged and removed by post owners or admin
+comments will be moderated by post owner, if approved, the comment is posted.
+comments will consist of: text,link,picture,video,file,gif
+
+admin panel can submit posts with any amount of money pool and can submit comments on any posts with a choice of how much each comment is worth with fake users
+admin panel will have total users, total comments, total posts, total money paid, total profit, total money pool tips, total comment tips
+admin panel will have analytics on everything
+admin panel will have pending payouts
+admin panel will have all of the SEO settings
+admin panel will have all of the settings (minimum payout for example) everything logical just like private post fee.
+admin panel will have moderation (of course admin has the right to remove comments and posts)
+admin panel will have chat moderation
+
+there is balance displayed on user accounts. incase of any removal the money goes to balance.
+
+PAGES:
+Homepage with a list of posts and money pool (total of money and how much money is left) is displayed on each post, homepage will have sort by largest money pool, sort by most comments, sort by least comments, homepage will have tip a post and tip a comment button, homepage will have top 5 comments for each post and load more button. homepage will show if its a flexible payment, private or open funding. how much is paid for each comment. average amount of money paid for each comment is shown as well including tips.
+top comments widget (on front-page) will display most tipped comments / with ranking number
+Post page, has comment list, comment moderation and post a comment button and everythign as described above.
+Post a comment page will have everything as described above
+admin pages will have everything as described above
+
+if money is tipped on comment or on money pool by another user, it will be displayed as a thank you.
+
+there will be notifications for post got approved, post got removed, money pool out of balance, new comments on post, comment approved notification and how much you got paid, comment flagged / removed notification, comment tips recieved, post tips received, chat notification
+
+
+the website will work with Paypal payments
+the website will have recaptcha
+
+
+money pool will be shown with total money paid total and total money left for new comments, once the money runs out no more comments allowed, tip money for more comments message will be displayed.
+
+no comments outside of the website allowed, only comments on winaty.com are paid for.
+
+
+
+
+if something is not mentioned here it is still going to be done, since this can be just 90% of whats needed to be done. (it will be noted later) 
+

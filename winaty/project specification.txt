@@ -1,0 +1,159 @@
+www.winaty.com
+
+A place where post owners pay $1 or more per comment to commentators, tips on comments allowed, tips on money pool allowed
+
+1. User role
+	- admin
+	- client
+
+2. Work flow after authentication
+	2.1. Post Owner
+		2.1.1. New Post
+			- Click "New Post" button in header of the site.
+			- Choose post type.
+				The main option is "Public" mode. Everyone can see the comments for the post. 
+				The alternative is "Private" mode. Only post owner and admin can see the comments for the post. He/she(post owner) should pay $10 for this option. 
+			- Write the description about the post. 
+				Media files (video, image, and audio files) are avaiable to attatch to the description. 
+				Max size of files uploaded to the system for the post is 20MB. If it's not enough for him/her, he/she can use links for the files.
+			- Set post avatar image. The images is used for display as description for the post.	
+			- Set budget of money pool for this post.
+			- Choose funding option. 
+				The primary choice is "Basic Funding", which means the post owner will charge to the money pool from his/her deposit. If his balance is not enough to fund to the money pool, the system will redirect him/her to www.paypal.com to deposit first. 
+				He/her should pay 25% of the money pool as fee. 
+				The alternative is "Open Post Funding", which means other can charge to the money pool for this post. The user who charges to the money pool should pay 25% of money he/she charge as fee.
+			- Choose pay option for comments.
+				The primary choice is "Fixed" mode. He/she should set price per comment for this post. 
+				The alternative is "Flexible" mode. He/she decides how much he/he is going to pay for each comment differently. He/she should set max and min price for a comment.
+			- Set "Tips On/Off" option.
+				The default option is "On", which means that others can tip pool money on the post to support it.
+			- Set comment properties.
+				Set min characters count for a comment.
+				Set comment content types. There are options as following;
+					link only, 
+					text only, 
+					file only, 
+					video only,
+					gif only, 
+					picture only
+					Anything
+			- Click "Post" button to post.
+			- He/she can find the created post in post list of Homepage.
+
+		2.1.2. Tip on post
+			- Click "Tip a post" button.
+			- Set how much he/she want to give tip.
+			- Click "Give Tip" button.
+			- System shows "Thank you!" message.
+
+		2.1.3. Check Comments
+			- Click the post which he/she posted in post list of Homepage. System will show post detail page.
+			- He/she can see all post details and a list of comments what are posted by other users for the post. 
+				Each comment in the comments list has following properties; Status(Pending, Approved), Written By, Written At, and tip.
+				Each comment has 3 buttons; "Set Flag", "Give Tip", "Approve" (if it's in pending status), and "Remove". 
+				Each comment has a badge "Low Quality" if the post owner set it. 
+
+		2.1.4. Approve comment
+			- Click "Approve" button of the comment in the comments list. 
+			- If fixed mode, the commentator will get paied how much the post owner set. If flexible mode, he/she(post owner) sets price for the comment and approve it, after all the commentator will get paied.
+			- The comment is posted so that others can see it.
+
+		2.1.5. Flag comment
+			- Click "Set Flag" button of the comment in the comments list.
+			- He/she can see the comment has "Low quality" badge in the comments list.
+
+		2.1.6. Remove comment
+			- Click "Remove" button of the comment in the comments list.
+			- He/she can see the comment has been removed from the comments list.
+
+		2.1.7. Tip comment
+			- Click "Give tip" button of the comment in the comments list.
+			- Set how much he/she want to give tip.
+			- Click "Give Tip" button.
+			- System shows "Thank you!" message.
+			- He/she can see the comment has been got the tip in the comments list.
+
+	2.2. Commentator
+		- A commentator can post his/her comment.
+		- He/she clicks a post which he/she want to post a comment in post list of Homepage.
+		- Click "Post Comment" button in the post detail page.
+		- Write down his/her comment with attachments.
+		- Click "Post" button to send his comment to the post owner.
+		- Once the post owner approves the comment, the comment will be shown in the comments list and he/she(commentator) will get paied for the comment.
+		* A commentator can edit his/her comments what are flaged as "Low Quality".
+
+	2.3. Homepage
+		- List of posts
+			Each post panel shows its money pool status(Total, Used, Left, Comment Count).
+		- Sort posts
+			sort by comments count (most and worst)
+			sort by money pool (most and worst)
+		- Top comments panel
+			Show 5 top comments with ranking 
+			Show 5 most tipped comments with ranking
+
+	2.4. Profile Page
+		- user avatar
+		- bio
+		- contact button
+		- deposit
+		- payout
+		- change paypal account
+		- change password
+
+	2.5. Chat
+		I plan to copy www.freelancer.com chatbox.
+
+	2.6. Recaptcha for all user submit
+
+	2.7. Notification like Fiverr
+		post got approved, 
+		post got removed, 
+		money pool out of balance, 
+		new comments on post, 
+		comment approved and how much you got paid, 
+		comment flagged,
+		comment removed, 
+		tips recieved, 
+		post tips received, 
+		new chat message arrived
+
+3. Admin panel
+	- sign in/register
+	- dashboard
+		Badges are following;
+			total users, 
+			total comments, 
+			total posts, 
+			total money paid, 
+			total profit, 
+			total money pool tips, 
+			total comment tips
+		Charts for daily analysis in a week
+			new users, 
+			new comments, 
+			daily posts, 
+			daily money paid, 
+			daily profit, 
+			daily money pool tips, 
+			daily comment tips
+	- Users
+		check users
+		fake users
+	- SEO settings
+	- Settings
+		post fee,
+		private post fee,
+		min comment price,
+		min payout
+		min money pool
+	- Payouts Management (verify, cancel payouts)
+	- Posts
+		check posts
+		tip a post
+		fake posts
+		remove post
+		tip a comment
+		fake comments
+		remove 
+	- Chat moderation (remove chat history)
